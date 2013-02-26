@@ -6848,19 +6848,27 @@ label {
 }
 
 .table tbody tr.rooibos td {
-  color: #ffffff;
-  background-color: hsl(346, 100%, 54%);
+  color: #000000;
+  /*background-color: hsl(346, 100%, 54%);*/
+  /*background-color: #a6ff6c;*/
+  /*background-color: #f8c372;*/
+  background-color: #f7b95a;
 }
 
 .table tbody tr.mate td {
-  color: #ffffff;
-  background-color: hsl(96, 100%, 56%);
+  color: #000000;
+  /*background-color: hsl(96, 100%, 56%);*/
+  /*background-color: #87ff39;*/
+  /*background-color: #f6ae41;*/
+  background-color: #f5a429;
 }
 
 .table tbody tr.herbal td {
   color: #ffffff;
   /*background-color: hsl(216, 91%, 56%);*/
-  background-color: hsl(216, 91%, 56%);
+  /*background-color: #69ff05;*/
+  /*background-color: #f49a11;*/
+  background-color: #e18c0a;
 }
 
 .table tbody tr.error td {
