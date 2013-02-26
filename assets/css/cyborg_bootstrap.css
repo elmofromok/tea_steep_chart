@@ -1996,6 +1996,12 @@ legend + .control-group {
   padding-left: 180px;
 }
 
+div.notes {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 table {
   max-width: 100%;
   background-color: transparent;
@@ -2004,7 +2010,9 @@ table {
 }
 
 .table {
-  width: 100%;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 20px;
 }
 
@@ -6810,65 +6818,49 @@ label {
   background-color: #669900;
 }
 
+.table tbody tr.white td {
+  color: #000000;
+  background-color: #e7fafb;
+}
+
 .table tbody tr.green td {
   color: #000000;
-  /*background-color: #669900;*/
-  /*background-color: hsl(126, 91%, 56%);*/
-  background-color: #bfd7fc;
+  background-color: #c5f3f6;
 }
 
 .table tbody tr.yellow td {
   color: #000000;
-  /*background-color: hsl(62, 100%, 54%);*/
-  background-color: #99c0fa;
-}
-
-.table tbody tr.white td {
-  color: #000000;
-  /*background-color: hsl(57, 100%, 96%);*/
-  background-color: #e4eefe;
+  background-color: #a3edf0;
 }
 
 .table tbody tr.oolong td {
   color: #000000;
-  /*background-color: hsl(46, 78%, 48%);*/
-  background-color: #74a9f9;
+  background-color: #82e6eb;
 }
 
 .table tbody tr.black td {
-  color: #ffffff;
-  /*background-color: hsl(358, 68%, 34%);*/
-  background-color: #4e91f7;
+  color: #000000;
+  background-color: #60dfe5;
 }
 
 .table tbody tr.puerh td {
-  color: #ffffff;
-  /*background-color: hsl(29, 68%, 34%);*/
-  background-color: #297af5;
+  color: #000000;
+  background-color: #3ed8df;
 }
 
 .table tbody tr.rooibos td {
-  color: #000000;
-  /*background-color: hsl(346, 100%, 54%);*/
-  /*background-color: #a6ff6c;*/
-  /*background-color: #f8c372;*/
-  background-color: #f7b95a;
+  color: #ffffff;
+  background-color: #23ccd4;
 }
 
 .table tbody tr.mate td {
-  color: #000000;
-  /*background-color: hsl(96, 100%, 56%);*/
-  /*background-color: #87ff39;*/
-  /*background-color: #f6ae41;*/
-  background-color: #f5a429;
+  color: #ffffff;
+  background-color: #1dabb2;
 }
 
 .table tbody tr.herbal td {
   color: #ffffff;
-  /*background-color: hsl(216, 91%, 56%);*/
-  /*background-color: #69ff05;*/
-  /*background-color: #f49a11;*/
-  background-color: #e18c0a;
+  background-color: #188b90;
 }
 
 .table tbody tr.error td {

@@ -39,7 +39,7 @@
     </header>
     <div  style="text-align: center; margin: 20px">
       <h3 style="text-style: italic">Tea</h3>
-      <table class="table" align="center">
+      <table class="table">
         <thead>
           <tr>
             <th class="span1">Tea</th>
@@ -142,7 +142,7 @@
         </tbody>
       </table>
     </div>
-    <div id="notes" style="margin: 20px;">
+    <div class="notes">
       <h6>Notes:</h6>
       <p> In general, most tea follows the rule that you should use 1 heaping tsp. of tea per
           8 oz. of water. However, you would want to use more if the tea is particularly leafy,
@@ -151,7 +151,7 @@
           temperatures and steeping times, so
           feel free to experiment and see what times and temperatures work for you.</p>
       <p>** These recommendations for Yerba Mate are for brewing in a teapot
-          like any other tea, and not serving it via the traditional South American
+          like any other tea and not serving it via the traditional South American
           <a href="http://www.yerbamateteagourd.com/serving.php" target="_blank">gourd/bombilla method</a>.</p>
     </div>
   </body>
